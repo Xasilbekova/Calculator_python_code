@@ -1,0 +1,6 @@
+self.btn1.clicked.connect(self.on_click)
+        # self.btn2.clicked.connect(self.on_click)
+        # self.btn3.clicked.connect(self.on_click)
+        # self.btn4.clicked.connect(self.on_click)
+        # self.btn5.clicked.connect(self.on_click)
+        # self.btn6.clicked.connect(self.on_click)
